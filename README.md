@@ -1,16 +1,17 @@
-## Hi there 👋
+Привет! Я Женя 🦇
 
-<!--
-**woofbank/woofbank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Приветствую в моем профиле! Я учусь на направлении "Интеллектуальные системы безопасности и аналитическое приборостроение" и развиваюсь в сфере программирования. Мой фокус - стык инженерных технологий, анализа данных и разработки.
 
-Here are some ideas to get you started:
+- 💻 Сейчас я активно изучаю: алгоритмы, разработку на Python/C++, базы данных
+- 🧬 Моя цель: Стать Embedded-разработчиком / Data Scientist 
+- 🎓 Образование: РТУ МИРЭА, Специальность "Интеллектуальные системы безопасности и аналитическое приборостроение"
+- 💬 Вы можете спросить меня про: микроконтроллеры, обработку сигналов и физику приборов.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Технологический стек
+- Языки программирования: C, C++, Python, SQL
+- Технологии и библиотеки: Git, NumPy, Pandas
+- Инженерный софт: MATLAB, LabVIEW
+
+📫 Как со мной связаться
+- Telegram: @woofbank
+- Email: e.zimina0.00.00.0@gmail.com
